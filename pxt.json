@@ -1,0 +1,17 @@
+{
+    "name": "Space Invaders",
+    "dependencies": {
+        "device": "*",
+        "pxt-arcade-display-strings": "github:robo-technical-group/pxt-arcade-display-strings#v1.0.5"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
